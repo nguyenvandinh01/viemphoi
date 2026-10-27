@@ -1,0 +1,20 @@
+# Moi truong ao
+venv/
+.venv/
+__MACOSX/
+
+# Du lieu anh (qua lon, khong len GitHub)
+chest_xray/
+train/
+test/
+val/
+
+# Log
+*.log
+
+# File he thong
+*.lnk
+Thumbs.db
+.DS_Store
+__pycache__/
+*.pyc
